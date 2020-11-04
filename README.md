@@ -1,4 +1,4 @@
-# warrior_accessories
+# 为warrior F5j设计的小附件
 副翼舵机架</br>
 ![image](https://github.com/witon/laozhu_warrior_accessories/blob/main/introduction/%E5%89%AF%E7%BF%BC%E8%88%B5%E6%9C%BA%E6%9E%B6.png)</br>
 副翼推拉杆</br>
